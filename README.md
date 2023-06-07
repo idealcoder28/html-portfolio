@@ -1,2 +1,2 @@
-# html-portfolio
-Hi, This is my portfolio website.
+# Dushyant K Paliwal
+Hi, This is my resume website build using HTML and CSS.
